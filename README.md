@@ -1,4 +1,4 @@
-# 🚀 ¡Bienvenido al Proyecto [Nombre de tu Proyecto Laravel]! 🚀
+# 🚀 ¡Bienvenido al Proyecto [Sistema de Control de Asistencia del Personal Operativo de la Misión Sucre Aldea Simon Rodriguez]! 🚀
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://github.com/yanisparra1/empleados)
 [![Latest Release](https://img.shields.io/github/v/release/yanisparra1/empleados?style=flat-square)](https://github.com/yanisparra1/empleados/releases)
@@ -6,14 +6,14 @@
 
 ¡Hola! 👋 Gracias por visitar el repositorio de **[Sistema de Control de Asistencia del Personal Operativo de la Misión Sucre Aldea Simon Rodriguez]**. Este proyecto es una  poderosa plataforma que permite el control de asistecia de manera sencilla,  construida con el elegante y robusto framework PHP Laravel.
 
-**[Nombre de tu Proyecto Laravel]** se diseñó con el objetivo de [explica el objetivo principal del proyecto, por ejemplo: simplificar la gestión de inventario, ofrecer una experiencia de usuario fluida para la compra de productos, compartir ideas y conocimientos de manera sencilla, etc.]. Sus funcionalidades clave incluyen:
+**[Sistema de Control de Asistencia del Personal Operativo de la Misión Sucre Aldea Simon Rodriguez]** se diseñó con el objetivo de [explica el objetivo principal del proyecto, por ejemplo: simplificar la gestión de inventario, ofrecer una experiencia de usuario fluida para la compra de productos, compartir ideas y conocimientos de manera sencilla, etc.]. Sus funcionalidades clave incluyen:
 
 - [Lista la primera funcionalidad principal]
 - [Lista la segunda funcionalidad principal]
 - [Lista la tercera funcionalidad principal]
 - ... y mucho más por descubrir!
 
-Este archivo `README` te guiará a través del proceso de instalación para que puedas tener **[Nombre de tu Proyecto Laravel]** corriendo en tu entorno local. ¡Prepárate para experimentar todo lo que esta aplicación tiene para ofrecer!
+Este archivo `README` te guiará a través del proceso de instalación para que puedas tener **[Sistema de Control de Asistencia del Personal Operativo de la Misión Sucre Aldea Simon Rodriguez]** corriendo en tu entorno local. ¡Prepárate para experimentar todo lo que esta aplicación tiene para ofrecer!
 
 **¿Listo para empezar? ¡Vamos a la instalación! 🛠️**
 
@@ -41,7 +41,7 @@ Este archivo `README` te guiará a través del proceso de instalación para que 
 
 ## Requisitos del Servidor
 
-Antes de sumergirnos en la instalación, asegúrate de que tu sistema cumpla con los siguientes requisitos esenciales para que **[Nombre de tu Proyecto Laravel]** funcione sin problemas:
+Antes de sumergirnos en la instalación, asegúrate de que tu sistema cumpla con los siguientes requisitos esenciales para que **[Sistema de Control de Asistencia del Personal Operativo de la Misión Sucre Aldea Simon Rodriguez]** funcione sin problemas:
 
 - **PHP:** Versión 8.1 o superior (te recomendamos verificar la versión exacta requerida en el archivo `composer.json` para una compatibilidad óptima).
 - **Composer:** Asegúrate de tener la última versión de Composer instalada globalmente. Puedes descargarla desde [https://getcomposer.org/](https://getcomposer.org/).
@@ -60,7 +60,7 @@ Antes de sumergirnos en la instalación, asegúrate de que tu sistema cumpla con
 
 ## Instalación
 
-¡Manos a la obra! Sigue estos sencillos pasos para tener **[Nombre de tu Proyecto Laravel]** listo para usar en tu entorno local:
+¡Manos a la obra! Sigue estos sencillos pasos para tener **[Sistema de Control de Asistencia del Personal Operativo de la Misión Sucre Aldea Simon Rodriguez]** listo para usar en tu entorno local:
 
 ### Clonar el Repositorio
 
